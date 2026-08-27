@@ -1,0 +1,133 @@
+*{
+            margin:0px;
+            padding:0px;
+        }
+        .footer{
+            background-color:#202020;
+            color:white;
+            width:100%;
+            height:300px;
+            margin-top: 49vh;
+        }
+        .first h1{
+            text-align:center;
+            position:relative;
+            top:30px;
+            font-family: "Abril Fatface", serif;
+            font-weight: 400;
+            font-style: normal;        
+        }
+        .first p{
+            text-align:center;
+            position:relative;
+            top:50px;
+            font-family: "Instrument Serif", serif;
+            font-weight: 500;
+            font-style: normal;         
+        }
+        .icons{
+            display:flex;
+            position:relative;
+            top:55px;
+            margin-left: 520px;
+        }
+        .facebook{
+              margin-right:10px;
+            i{
+                font-size:20px;
+                padding:5px;
+                border: 1px solid white;
+                border-radius: 100%;
+            }
+        }
+        .twitter{
+              margin-right:10px;
+            i{
+                font-size:20px;
+                padding:5px;
+                border: 1px solid white;
+                border-radius: 100%;
+            }
+        }
+        .google{
+              margin-right:10px;
+            i{
+                font-size:20px;
+                padding:5px;
+                border: 1px solid white;
+                border-radius: 100%;
+            }
+        }
+        .yt{
+              margin-right:10px;
+            i{
+                font-size:20px;
+                padding:5px;
+                border: 1px solid white;
+                border-radius: 100%;
+            }
+        }
+        .linkedin{
+              margin-right:10px;
+            i{
+                font-size:20px;
+                padding:5px;
+                border: 1px solid white;
+                border-radius: 100%;
+            }
+        }
+        .last{
+            display:flex;
+            align-items: center;
+            height:40px;
+            background-color: black;
+            position:relative;
+            top:85px;
+            .copyright{
+                margin-left:10px;
+                p{
+                    font-family: "Instrument Serif", serif;
+                    font-weight: 500;
+                    font-style: normal;
+                }
+                span{
+                    color:rgb(4, 141, 187);
+                }
+            }
+            .nav{
+                display:flex;
+                margin-left:855px;
+                font-family: "Instrument Serif", serif;
+                font-weight: 500;
+                font-style: normal;
+                .home{
+                    margin-right:10px;
+                    a{
+                        text-decoration: none;
+                        color:white;
+                        
+                    }
+                }
+                .about{
+                    margin-right:10px;
+                    a{
+                        text-decoration: none;
+                        color:white;
+                    }
+                }
+                    .contact{
+                        margin-right:10px;
+                        a{
+                            text-decoration: none;
+                            color:white;
+                        }
+                    }
+                    .blog{
+                        margin-right:10px;
+                        a{
+                            text-decoration: none;
+                            color:white;
+                        }
+                    }
+                }
+            }
